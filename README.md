@@ -5,7 +5,7 @@ Main info:
 
 - Dataset: [IAPRTC-12](https://www.imageclef.org/photodata)
 
-- Running Enviroment: Google Colab
+- Running Environment: Google Colab
 
 - Framework: Tensorflow/Keras
 
