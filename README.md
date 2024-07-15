@@ -1,6 +1,13 @@
 # Image Captioning Project
 
-Dataset: [IAPRTC-12](https://www.imageclef.org/photodata)
-Running Enviroment: Google Colab
+Main info:
 
-The project results are presented in the file [project-presentation.pdf]()
+- Dataset: [IAPRTC-12](https://www.imageclef.org/photodata)
+
+- Running Enviroment: Google Colab
+
+- Framework: Tensorflow/Keras
+
+
+
+The project results are presented in the file [project-presentation.pdf](image-captionining-iaprtc12/project-presentation.pdf)
