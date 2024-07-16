@@ -12,4 +12,4 @@ Main info:
 
 This repository contains only the code and the project results.
 
-The project results are presented in the file [project_presentation.pdf](project_presentation.pdf)
+The project results are presented in the file [project_presentation.pdf](project_presentation.pdf).
